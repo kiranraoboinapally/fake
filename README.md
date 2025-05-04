@@ -19,29 +19,12 @@ Hi this is Vishnu Vardhan coomits
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 # My Section with Background
 
-<div class="background-section">
-  
+![Background](https://via.placeholder.com/800x200)
+
 ## Welcome!
 
-This section has a background image applied via CSS.  
-You can still use **Markdown** syntax inside this div.
-
-</div>
+This is a section that *looks like* it has a background image because we placed an image above the text.
 
 Some normal content below.
-
