@@ -16,3 +16,32 @@ git commit -m "useername commit"
 git push origin master
 
 Hi this is Vishnu Vardhan coomits
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# My Section with Background
+
+<div class="background-section">
+  
+## Welcome!
+
+This section has a background image applied via CSS.  
+You can still use **Markdown** syntax inside this div.
+
+</div>
+
+Some normal content below.
+
